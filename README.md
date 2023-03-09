@@ -9,3 +9,4 @@ In each project folder, you will find a comprehensive set of code snippets in HT
 To see Projects:
 
 1. Waving Penguin - https://twitter.com/Pybeancoder/status/1633211461647450119?s=20
+2. CSS Skyline - https://twitter.com/Pybeancoder/status/1633636337839493120?s=20
